@@ -98,7 +98,6 @@ def all_supplies_in_holidays(holiday_hash)
         #puts "  #{holiday.to_s.capitalize}: #{items_array}"
       end
     end
-    end
 end
 all_supplies_in_holidays(holiday_hash)
 
